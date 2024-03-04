@@ -1,4 +1,4 @@
-package frase_numero02;
+package frase_numero;
 
 public class frase_numero {
 
