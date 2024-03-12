@@ -9,7 +9,6 @@ public class notas_array {
 
         double media;
 
-       // DecimalFormat deci = new DecimalFormat("0.00");
 
         for (int i = 0; i<notas.length; i++) {
             System.out.println("Digite uma nota: ");
